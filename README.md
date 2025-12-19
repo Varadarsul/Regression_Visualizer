@@ -30,3 +30,4 @@ Notes
 - You can upload a CSV via the sidebar to analyze your own data (it will auto-detect numeric columns).
 - For OLS step-by-step numeric, the app falls back to the pseudo-inverse if X^T X is singular.
 ![image](https://github.com/Varadarsul/Regression_Visualizer/blob/master/Screenshot%202025-12-18%20233917.png)
+![image](https://github.com/Varadarsul/Regression_Visualizer/blob/master/Screenshot%202025-12-18%20233929.png)
